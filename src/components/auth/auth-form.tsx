@@ -18,7 +18,7 @@ import {
 } from "@/components/ui/card";
 import { cn } from "@/lib/utils"; // optional; remove if you don't have this helper
 
-const APP_NAME = "expense tracker by abdul salam ahmed";
+const APP_NAME = "expense tracker by Mohd Ibrahim Ahmed";
 
 const schema = z.object({
   email: z.string().email(),
